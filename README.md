@@ -32,4 +32,4 @@ Welcome to my GitHub profile! I'm a Computer Science student with a keen interes
 <!-- To be added -->
 
 ## **Let's Connect!**
-[My LinkedIn](https://www.linkedin.com/in/jasmine-britton-b5119a247)
+[My LinkedIn](https://www.linkedin.com/in/jasmine-britton-tch365)
